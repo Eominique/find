@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="launch_screen_txt_sign_in">Sign In</string>
+    <string name="launch_screen_txt_welcome">Welcome to Find Job</string>
+    <string name="launch_screen_to_">to</string>
+    <string name="launch_screen">Create mobile app</string>
+    <string name="launch_screen_btn_start">Get started</string>
+</resources>
